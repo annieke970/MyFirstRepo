@@ -1,0 +1,7 @@
+
+Brief Introduction About Myself
+
+My name is Hannah, and I am currently learning how to use Git and GitHub as part of my ALX learning tasks. I enjoy improving my digital skills and exploring new areas in technology. I’m excited to continue learning and building projects.
+
+I look forward to gaining more experience, collaborating on different tasks, and becoming confident with version control using GitHub.
+

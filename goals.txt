@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+- Improve my Git and GitHub skills by completing all ALX tasks.
+- Learn at least one new programming language (Python or JavaScript).
+- Complete a small personal project to showcase my skills.
+- Read 5 books on personal development and technology.
+- Participate in a coding competition or hackathon.

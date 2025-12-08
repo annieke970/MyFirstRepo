@@ -1,1 +1,1 @@
-Something I learned so far in this course is how Git tracks changes and helps developers collaborate easily.
+What I have learned from this course is how to use Git to manage files, track changes, and collaborate effectively.
